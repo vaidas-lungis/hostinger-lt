@@ -1,0 +1,12 @@
+{
+    "name": "vaidas/hostinger-lt",
+    "authors": [
+        {
+            "name": "vaidas-lungis",
+            "email": "vaidas.lungis+github@gmail.com"
+        }
+    ],
+    "require": {
+        "php":"~7.1.0"
+    }
+}
